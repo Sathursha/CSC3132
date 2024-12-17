@@ -3,8 +3,7 @@
 
     <title>Parking Management App</title>
     <style>
-        <style type ="text/css">
-        .main {
+         .main {
             margin: 40px;
             padding: 20px;
             background-color: #CDF5FD;
